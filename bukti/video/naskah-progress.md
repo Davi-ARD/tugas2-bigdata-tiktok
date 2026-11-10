@@ -21,7 +21,7 @@ Jaga privasi:
 
 Layar: tab 1, halaman depan repo GitHub (README terlihat).
 
-> "Assalamualaikum. Saya Muhammad Davi Ardian, NIM 102022330384, kelas SI-47-EDM-02. Ini video progres Tugas 2 Pengelolaan Big Data, yaitu membangun platform end-to-end di Databricks. Studi kasus saya adalah TikTok: memilah video yang berisi klaim dari yang berisi opini, supaya moderator bisa memprioritaskan video klaim."
+> "Assalamualaikum. Saya Muhammad Davi Ardian, NIM 102022330384, kelas SI-47-EDM 01. Ini video progres Tugas 2 Pengelolaan Big Data, yaitu membangun platform end-to-end di Databricks. Studi kasus saya adalah TikTok: memilah video yang berisi klaim dari yang berisi opini, supaya moderator bisa memprioritaskan video klaim."
 
 ## Adegan 2. Repo GitHub (sekitar 30 detik)
 
