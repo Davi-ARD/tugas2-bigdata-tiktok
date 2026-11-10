@@ -1,0 +1,21 @@
+# Rahasia dan konfigurasi lokal
+.env
+.databrickscfg
+*.token
+postman/*environment*.json
+
+# Databricks dan Python
+.databricks/
+__pycache__/
+*.pyc
+.venv/
+mlruns/
+
+# Rekaman video berukuran besar tidak ikut ke GitHub
+bukti/video/*.mp4
+bukti/video/*.mkv
+bukti/video/*.mov
+
+# Ditahan sampai demo akhir untuk membuktikan ingest incremental
+data/batches/tiktok_batch_02.csv
+data/batches/tiktok_batch_03.csv
